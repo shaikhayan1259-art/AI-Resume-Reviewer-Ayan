@@ -1,0 +1,26 @@
+AYAN SHAIKH
+Pune, Maharashtra | ayan@example.com | +91 9000000000
+
+SUMMARY
+Electrical Engineering student interested in AI, data science and automation.
+
+EDUCATION
+B.E. Electrical Engineering, Pune University
+
+SKILLS
+Python, Pandas, NumPy, SQL, MATLAB, PLC, SCADA, Git
+
+PROJECTS
+AI Project Recommender
+- Developed a recommendation prototype using Python and scikit-learn.
+- Analyzed student interests and skills to generate recommendations.
+
+EXPERIENCE
+Engineering Internship
+- Built an automation prototype and tested project features.
+
+CERTIFICATIONS
+Python Programming Certificate
+
+ACHIEVEMENTS
+Completed academic projects and technical activities.
